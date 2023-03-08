@@ -7,6 +7,7 @@ class Employee:
 
     def give_raise(self, amount):
         self.salary += amount
+        self.salary -= 500
 
 
 
