@@ -3,7 +3,7 @@
 # Pytest CI CD
 
 ### Türkçe
-Bu GitHub deposu, GitHub Actions ve pytest kullanarak basit bir proje yapmak için oluşturulmuştur.
+Bu GitHub deposu, GitHub Actions ve pytest kullanarak basit bir proje yapmak için oluşturulmuştur..
 
 ## Kurulum
 
